@@ -1,0 +1,26 @@
+﻿body {
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_2t/9771.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 950px;
+}
+
+.Reg {
+    border: solid black 2px;
+    margin-right:300px;
+    margin-left:300px;
+    
+}
+
+.title {
+    text-align: center;
+}
+.Submit {
+    width: 200px;
+    margin-left: 400px;
+    margin-right: 50px;
+    margin-bottom:50px;
+    height: 30px;
+}
+.table{
+    margin-left:60px;
+}

@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_2t/9771.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 950px;
+}
+.Reg {
+    border: solid black 2px;
+    margin-bottom: 15px;
+    width: 300px;
+    height: 300px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: 600px;
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+.title{
+    text-align:center;
+}
+.Login {
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 30px;
+    margin-top:30px;
+}
+#txtUsername{
+    height:20px;
+    width:200px;
+}
+#txtPassword {
+    height: 20px;
+    width: 200px;
+}
